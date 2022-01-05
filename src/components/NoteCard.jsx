@@ -20,7 +20,8 @@ const useStyles = makeStyles({
         fontSize: '10px'
     },
     contact: {
-        fontSize: '12px'
+        fontSize: '12px',
+        fontWeight: 'bolder'
     }
 })
 
