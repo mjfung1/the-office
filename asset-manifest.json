@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/material/the-office/static/css/main.5bfc9b61.chunk.css",
-    "main.js": "/material/the-office/static/js/main.4a38ff79.chunk.js",
-    "main.js.map": "/material/the-office/static/js/main.4a38ff79.chunk.js.map",
-    "runtime-main.js": "/material/the-office/static/js/runtime-main.c3e32285.js",
-    "runtime-main.js.map": "/material/the-office/static/js/runtime-main.c3e32285.js.map",
-    "static/js/2.5703f1a9.chunk.js": "/material/the-office/static/js/2.5703f1a9.chunk.js",
-    "static/js/2.5703f1a9.chunk.js.map": "/material/the-office/static/js/2.5703f1a9.chunk.js.map",
-    "index.html": "/material/the-office/index.html",
-    "static/css/main.5bfc9b61.chunk.css.map": "/material/the-office/static/css/main.5bfc9b61.chunk.css.map",
-    "static/js/2.5703f1a9.chunk.js.LICENSE.txt": "/material/the-office/static/js/2.5703f1a9.chunk.js.LICENSE.txt"
+    "main.css": "/the-office/static/css/main.5bfc9b61.chunk.css",
+    "main.js": "/the-office/static/js/main.4a38ff79.chunk.js",
+    "main.js.map": "/the-office/static/js/main.4a38ff79.chunk.js.map",
+    "runtime-main.js": "/the-office/static/js/runtime-main.a78638b4.js",
+    "runtime-main.js.map": "/the-office/static/js/runtime-main.a78638b4.js.map",
+    "static/js/2.5703f1a9.chunk.js": "/the-office/static/js/2.5703f1a9.chunk.js",
+    "static/js/2.5703f1a9.chunk.js.map": "/the-office/static/js/2.5703f1a9.chunk.js.map",
+    "index.html": "/the-office/index.html",
+    "static/css/main.5bfc9b61.chunk.css.map": "/the-office/static/css/main.5bfc9b61.chunk.css.map",
+    "static/js/2.5703f1a9.chunk.js.LICENSE.txt": "/the-office/static/js/2.5703f1a9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c3e32285.js",
+    "static/js/runtime-main.a78638b4.js",
     "static/js/2.5703f1a9.chunk.js",
     "static/css/main.5bfc9b61.chunk.css",
     "static/js/main.4a38ff79.chunk.js"
