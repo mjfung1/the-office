@@ -14,6 +14,7 @@ import Toolbar from '@material-ui/core/Toolbar';
 import { format } from 'date-fns';
 import { blue } from '@material-ui/core/colors';
 
+
 const drawerWidth = 240;
 
 const useStyles = makeStyles((theme) => {
@@ -91,6 +92,7 @@ function Layout({ children }) {
                     <Avatar 
                         className={classes.avatar}
                         src="./avatars/mose.jpeg" />
+    
                 </Toolbar>
             </AppBar>
 
