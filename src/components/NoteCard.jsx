@@ -36,7 +36,7 @@ function NoteCard({ note, handleDelete }) {
                 <CardHeader 
                     avatar={
                         <Avatar 
-                            src={`./../avatars/${note.person}.jpeg`}
+                            src={`./../the-office/avatars/${note.person}.jpeg`}
                         />
                         
                     }
